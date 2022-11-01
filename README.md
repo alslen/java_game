@@ -11,7 +11,7 @@
   - panel2<br>  
   ![panel2](https://user-images.githubusercontent.com/114123460/198942363-4f3f6056-71e4-4f7c-8aad-1250ed6d8696.PNG)
   
-* New Game 버튼을 클릭하지 전까지는 카드 뒤집지 못하게 startCheck를 0으로 초기화
+* New Game 버튼을 클릭하지 전까지는 카드 뒤집지 못하게 startCheck(변수)를 0으로 초기화
 * 카드 이미지들을 JLabel 위에 배치
 * New Game 버튼을 누르면 카드를 섞고 Timer(), count(남은개수)를 초기화
 
